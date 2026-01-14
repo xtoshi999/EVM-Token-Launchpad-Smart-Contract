@@ -82,7 +82,7 @@ Check out the live platform here: [XPAD.fun](https://xpad.fun/)
 ## 📈 **Platform Links**
 
 - Live Platform: [XPAD.fun](https://xpad.fun/)
-- Smart Contract Repository: *(https://github.com/HyperBuildX/EVM-Token-Launchpad-Contract)*
+- Smart Contract Repository: *(https://github.com/xtoshi999/EVM-Token-Launchpad-Contract)*
 
 ---
 
@@ -110,7 +110,7 @@ Check out the live platform here: [XPAD.fun](https://xpad.fun/)
 ## 🤝 Support
 
 If you have any questions or would like a more customized app for specific use cases, please feel free to contact us at the contact information below.
-- E-Mail: admin@hyperbuildx.com
+- E-Mail: admin@xtoshi999.com
 - Telegram: [@bettyjk_0915](https://t.me/bettyjk_0915)
 
 ---
